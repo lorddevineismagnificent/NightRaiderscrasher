@@ -1,0 +1,34 @@
+{
+  "name": "night-raiders-bot",
+  "version": "1.0.0",
+  "description": "NIGHT RAIDERS - Elite WhatsApp Clan Bot. Only the strong survive. Demonic raiders rise.",
+  "main": "index.js",
+  "scripts": {
+    "setup": "node setup.js",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "NIGHT RAIDERS CLAN",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^7.0.0-rc.6",
+    "axios": "^1.6.8",
+    "chalk": "^4.1.2",
+    "dotenv": "^16.6.0",
+    "fs-extra": "^10.0.0",
+    "moment-timezone": "^0.5.43",
+    "node-fetch": "^2.7.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "parse-ms": "^2.1.0",
+    "pino": "^10.1.0",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
