@@ -74,8 +74,8 @@ Our legacy is **eternal**.
 
 ## Contact
 
-- **Telegram:** @NightRaiders
-- **Link:** https://t.me/NightRaiders
+- **Telegram:** @Lord_devine
+- **Link:** https://t.me/Lord_devine
 
 ---
 
@@ -87,4 +87,4 @@ Our legacy is **eternal**.
 
 ---
 
-**Created by Night Raiders Clan【☠︎】**
+**Created by Lorddevinethepussyslayer【☠︎】**
